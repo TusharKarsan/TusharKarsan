@@ -1,8 +1,14 @@
+Hello there,
+
 - 👋 Hi, I’m @TusharKarsan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+I'll fill in the bits later.
+
+Thanks for visiting.
 
 <!---
 TusharKarsan/TusharKarsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
