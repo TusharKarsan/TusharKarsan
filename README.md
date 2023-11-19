@@ -9,11 +9,11 @@ Hello there,
 I'll fill in the bits later.
 
 Some of my links:
-[LinkedIn](https://uk.linkedin.com/in/tusharkarsan)
-[Pluralsight 1](https://app.pluralsight.com/profile/tkarsan)
-[Pluralsight 2](https://app.pluralsight.com/profile/tkarsan2)
-[Scrum Alliance](https://www.scrumalliance.org/community/profile/tkarsan)
-[Stack Overflow](https://stackoverflow.com/users/edit/22943887)
+ - [LinkedIn](https://uk.linkedin.com/in/tusharkarsan)
+ - [Pluralsight 1](https://app.pluralsight.com/profile/tkarsan)
+ - [Pluralsight 2](https://app.pluralsight.com/profile/tkarsan2)
+ - [Scrum Alliance](https://www.scrumalliance.org/community/profile/tkarsan)
+ - [Stack Overflow](https://stackoverflow.com/users/edit/22943887)
 
 Thanks for visiting.
 
