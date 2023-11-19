@@ -2,7 +2,9 @@ Hello there,
 
 With a distinguished career spanning over 25 years in software development, my expertise extends to a wide array of applications, including but not limited to Health Care, ERP, Accounting, and document management systems.
 
-My primary focus centres on web development, with a particular emphasis on front-end technologies like Angular.
+My primary focus centres on web development, with a particular emphasis on front-end technologies like Angular while my track record is marked by consistently delivering impactful solutions that adeptly address complex demands.
+
+I hold a Scrum Master certification and am proficient in Atlassian Jira and Microsoft DevOps.
 
 - 👋 Hi, I’m @TusharKarsan
 - 👀 I’m interested in ...
