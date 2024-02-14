@@ -19,9 +19,10 @@ Some of my links:
  - [Pluralsight 1](https://app.pluralsight.com/profile/tkarsan)
  - [Pluralsight 2](https://app.pluralsight.com/profile/tkarsan2)
  - [Scrum Alliance](https://www.scrumalliance.org/community/profile/tkarsan)
- - [Stack Overflow](https://stackoverflow.com/users/edit/22943887)
+ - [Stack Overflow](https://stackoverflow.com/users/22943887/t-karsan)
+ - [Udemy](https://www.udemy.com/user/tushar-karsan/)
 
-Thanks for visiting.
+Thank you for visiting.
 
 <!---
 TusharKarsan/TusharKarsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
