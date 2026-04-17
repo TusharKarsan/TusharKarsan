@@ -40,8 +40,8 @@ Data Science with a focus on reproducible analytical workflows and modern data e
 Some of my links:
 
  - [LinkedIn](https://uk.linkedin.com/in/tusharkarsan)
- - [Pluralsight 1](https://app.pluralsight.com/profile/tkarsan)
- - [Pluralsight 2](https://app.pluralsight.com/profile/tkarsan2)
+ - [Pluralsight](https://app.pluralsight.com/profile/tkarsan) 1
+ - [Pluralsight](https://app.pluralsight.com/profile/tkarsan2) 2
  - [Scrum Alliance](https://www.scrumalliance.org/community/profile/tkarsan)
  - [Stack Overflow](https://stackoverflow.com/users/22943887/t-karsan)
  - [Udemy](https://www.udemy.com/user/tushar-karsan/)
