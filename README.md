@@ -6,6 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=TusharKarsan&color=blue&style=flat-square)](https://github.com/TusharKarsan)
 
 ## About Me
+
 - 30+ years of software development experience
 - Specialised in Angular, C#, and enterprise web applications
 - Experienced in Healthcare, ERP, Accounting, and DMS systems
@@ -39,12 +40,12 @@ Data Science with a focus on reproducible analytical workflows and modern data e
 
 Some of my links:
 
- - [Codeberg](https://codeberg.org/TusharKarsan) 
+ - [Codeberg](https://codeberg.org/TusharKarsan)
  - [LinkedIn](https://uk.linkedin.com/in/tusharkarsan)
  - [Pluralsight](https://app.pluralsight.com/profile/tkarsan) 1
  - [Pluralsight](https://app.pluralsight.com/profile/tkarsan2) 2
  - [Scrum Alliance](https://www.scrumalliance.org/community/profile/tkarsan)
- - [Stack Overflow](https://stackoverflow.com/users/22943887/t-karsan) 😆 
+ - [Stack Overflow](https://stackoverflow.com/users/22943887/t-karsan) 😆
  - [Udemy](https://www.udemy.com/user/tushar-karsan/)
 
 ### ⚡ Fun Fact
