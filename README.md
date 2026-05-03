@@ -24,7 +24,7 @@ Including but not limited to, and happy to learn more:
 | Tech       | Includes                                                 |
 | ---------- | -------------------------------------------------------- |
 | Languages  | C#, .Net, Data Analysis using Python, NumPy, pandas      |
-| API        | GraphQL, Dapr, RESTfui                                   |
+| API        | GraphQL, Dapr, RESTful                                   |
 | Front-End  | Angular, React, RxJS, JavaScript, Typescript             |
 | Storage    | Sql Server, EF Core, T-SQL, MongoDB, Redis, RabbitMQ     |
 | Containers | Docker, minikube, Helm, Linux, Bash, PowerShell          |
