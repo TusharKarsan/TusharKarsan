@@ -12,6 +12,8 @@
 - Experienced in Healthcare, ERP, Accounting, and DMS systems
 - Certified Scrum Master
 
+<img src="./Gemini.jpg" width="600">
+
 ## 🏢 Experience
 
 - Experience in both public and private sectors in England, UK
